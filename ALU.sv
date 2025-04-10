@@ -1,8 +1,3 @@
-/*
-	My Directory 
-	/home/svgpdv25moadel/ALU_SV
-
-*/
 module ALU #(parameter WIDTH = 5)(
 
 	input  logic signed [WIDTH-1:0] A,B,
